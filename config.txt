@@ -1,7 +1,8 @@
-touch README.md
+git config --global user.name "name"
+git config --global user.email "email"
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "commit"
 git remote add origin https://github.com/cceballosq/jason.git
 git push -u origin master
 -----------------
