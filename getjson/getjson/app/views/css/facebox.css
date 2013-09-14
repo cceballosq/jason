@@ -1,0 +1,12 @@
+body { margin:0; padding:0; width:100%; background:#fff;}
+html { padding:0; margin:0;}
+.clr { clear:both;}
+a {
+  text-decoration: none;
+}
+.cuerpo {
+  width: 1024px;
+  height: 1500px;
+  border: 1px solid;
+  
+}

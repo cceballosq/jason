@@ -1,0 +1,4 @@
+activerecord-
+controller.class
+view.class
+html.helper-

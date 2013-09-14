@@ -1,0 +1,34 @@
+body { margin:0; padding:0; width:100%; background:#fff;}
+html { padding:0; margin:0;}
+.clear { clear:both;}
+a {
+  text-decoration: none;
+}
+.cuerpo {
+  width: 1024px;
+  height: 920px;
+  border: 1px solid;
+  margin: 0px auto;  
+}
+.cabecera{
+	width: 1024px;
+	height: 200px;
+	text-align: center;
+	background: #ccc;
+}
+.botones{
+	width: 1024px;
+	height: 75px;
+	background: #cc8;
+}
+.info {
+	width: 1024px;
+	height: 624px;
+	background: #ccc;
+
+}
+.informacion{
+	float: left;
+	width: 250px;
+	background-color: #fff;
+}
