@@ -15,6 +15,7 @@ class index_controller extends appcontroller
 		$this->render();
 	}
 	public function getUserData($id=null){
+		//alert("dvnajvn");
 		//$usrObj = new image();
       	//$datos = $usrObj->getUserComputers($id);      
     	echo json_encode($datos);

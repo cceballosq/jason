@@ -17,7 +17,7 @@
 		<?php foreach ($datos as $dato ) { ?>
 			<div id="impresion_pic">
 				<div class="informacion"> <?php echo $dato['name']; ?>  </div>
-				<div class="informacion"> <?php echo $dato['email']; ?> </div>
+				<div class="informacion"> <?php echo $dato['tel']; ?> </div>
 				<div class="informacion"> <?php echo $dato['created']; ?>  </div>
 				<div class="clear"></div>
 
